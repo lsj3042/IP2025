@@ -4,4 +4,4 @@
 
 [https://youtu.be/CkGW5W4eE6I](https://www.youtube.com/watch?v=PUX_PcQdKnU)
 
-[![Video](https://www.youtube.com/watch?v=PUX_PcQdKnU.jpg)](https://www.youtube.com/watch?v=PUX_PcQdKnU)
+[![Video](https://img.youtube.com/watch?v=PUX_PcQdKnU.jpg)](https://www.youtube.com/watch?v=PUX_PcQdKnU)
