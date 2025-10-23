@@ -14,3 +14,6 @@
 
 # homework 3
 <img src="./화면 캡처 2025-09-24 152552.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+# homework 4
+<img src="./화면 캡처 2025-10-17 151301.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
